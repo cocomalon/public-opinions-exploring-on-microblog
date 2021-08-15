@@ -1,0 +1,2 @@
+# public-opinions-exploring-on-microblog
+explore public opinions of several types of affairs on microblog, try to first make the classification of the affairs based on the comments on them, and then tag on different  affairs like give one affair a tag like "positive public feedback", and then find out how the tag of the affair and the following development of the affair are related, which may need a model like LDA. 
